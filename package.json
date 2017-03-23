@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Fastcode/NUClearNet.js#readme",
   "dependencies": {
-    "murmurhash-native": "1.0.1"
+    "murmurhash-native": "1.0.1",
+    "nan": "^2.5.1"
   }
 }
